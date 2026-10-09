@@ -14,7 +14,7 @@ export async function onRequest(context) {
     <title>Welcome</title>
     <meta property="og:title" content="💢 💢 💢 💢">
     <meta property="og:description" content="">
-     <meta property="og:image"              content="//external.fbhv1-1.fna.fbcdn.net/emg1/v/t13/5168570377130764077?_nc_oc=Adr-Q8OGgYS3JAuWi8hm6h77oQ3UV0TIK1OO7yeb9Eyo2VVOLsEOMPANfz67OrHYjh0&url=https%3A%2F%2Fntgshortner.link18xx.com%2Fuploads%2Fimg_652b669a7b8f.jpg&fb_obo=1&utld=link18xx.com&_nc_sid=6b0826&_nc_ht=external.fbhv1-1.fna.fbcdn.net&stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&ccb=18-1&_nc_gid=n7ru9DxaIMb7ouPwe8p9hA&_nc_map=urlgen_bucketless&_nc_zt=3&oh=06_Q3_EAZkB5brDiSQ_ruefxCEwbom_hd5OOf-c3BH4iqqXKJDW&oe=6ACB17B3" />
+    <meta property="og:image" content="https://scontent.fbhv1-1.fna.fbcdn.net/v/t39.30808-6/836859228_122147005365356540_2425544965696033306_n.jpg?stp=dst-jpg_tt6&cstp=mx720x384&ctp=p280x280&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=i1ayRY2SI4EQ7kNvwETTwo2&_nc_oc=AdqnF86TkyjNtuS92f95VU9NnwTtoS4yc8B6ZffZPnmC6nvN62yqK6CKqq1kqcqMWCU&_nc_zt=23&_nc_ht=scontent.fbhv1-1.fna&_nc_gid=NTynXWjnXZNdzDr4f8WK9Q&_nc_ss=7b2a8&oh=00_AQOuPlAYKA_6bivPLDoTHbhypYleYLxXlabHmWoCA-LoTg&oe=6ACEF84C">
     <meta property="og:url" content="https://www.google.com">
     <meta property="og:type" content="website">
 </head>
